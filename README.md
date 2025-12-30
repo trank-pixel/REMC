@@ -1,3 +1,4 @@
+![Logo](12632.ico)
 # REMC
 
 Python script for quick restart of Windows Explorer (`explorer.exe`) by pressing the middle mouse button.
