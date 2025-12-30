@@ -20,9 +20,9 @@ def is_game_running():
 def restart_explorer():
    print("restarting explorer...")
     # restarting explorer.exe
-    os.system("taskkill /F /IM explorer.exe")
+   os.system("taskkill /F /IM explorer.exe")
     # reopening explorer via Popen
-    subprocess.Popen("explorer.exe")
+   subprocess.Popen("explorer.exe")
 
 def on_click(x, y, button, pressed):
     # The logic of checking the mouse wheel click
