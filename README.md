@@ -16,5 +16,5 @@ Python and the following libraries are needed to work:
 2. Install the dependencies:
    `pip install -r requirements.txt`
 3. Run the script:
-python restart_explorer.py
+`python restart_explorer.py`
 
