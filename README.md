@@ -9,12 +9,12 @@ Python script for quick restart of Windows Explorer (`explorer.exe`) by pressing
 ## Requirements
 Python and the following libraries are needed to work:
 * `pynput` (mouse tracking)
-* 'psutil' (checking running games)
+* `psutil` (checking running games)
 
 ## Installation and launch
 1. Clone the repository.
 2. Install the dependencies:
-   pip install -r requirements.txt
+   `pip install -r requirements.txt`
 3. Run the script:
 python restart_explorer.py
 
